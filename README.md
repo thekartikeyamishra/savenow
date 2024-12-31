@@ -50,7 +50,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/savenow.git
+   git clone https://github.com/thekartikeyamishra/savenow.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -95,7 +95,7 @@ Contributions are welcome! 🎉
 ---
 
 ## Connect with Me
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🌐 [LinkedIn](https://www.linkedin.com/in/thekartikeyamishra)  
 📂 [GitHub Repository]([https://github.com/thekartikeyamishra/savenow](https://github.com/thekartikeyamishra/savenow))  
 
 ---
