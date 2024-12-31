@@ -1,36 +1,105 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SaveNow Web Application
+
+Welcome to **SaveNow**, your personal shopping assistant designed to revolutionize the way you shop on Amazon! 🛍️
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
+- [Connect with Me](#connect-with-me)
+
+---
+
+## Introduction
+**SaveNow** is a cutting-edge web application that allows users to:
+- Paste an Amazon product link and retrieve detailed insights.
+- View product details such as description, reviews, highest price, current price, and lowest price.
+- Get notified via email when the product reaches its lowest price.
+
+Whether you're a savvy shopper or simply looking for the best deals, SaveNow ensures you never miss a bargain.
+
+---
+
+## Features
+- **Product Insights**: Provides comprehensive product information, including historical pricing data.
+- **Price Alerts**: Automatically alerts you when the product reaches your desired price point.
+- **User-Friendly Interface**: Simple and intuitive design for seamless navigation.
+- **Secure**: Keeps your data safe and private.
+
+---
+
+## Tech Stack
+- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Language**: TypeScript
+
+---
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+Ensure you have the following installed:
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/savenow.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd savenow
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+### Running the Development Server
+Start the server locally:
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit [http://localhost:3000](http://localhost:3000) to explore the app.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Deployment
+Deploying SaveNow is straightforward with platforms like [Vercel](https://vercel.com/).
 
-## Learn More
+1. Connect the GitHub repository to Vercel.
+2. Follow the on-screen instructions to deploy.
 
-To learn more about Next.js, take a look at the following resources:
+Check the official [Next.js Deployment Documentation](https://nextjs.org/docs/deployment) for more details.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributing
+Contributions are welcome! 🎉
 
-## Deploy on Vercel
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Submit a pull request with a detailed explanation.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Connect with Me
+🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+📂 [GitHub Repository]([https://github.com/thekartikeyamishra/savenow](https://github.com/thekartikeyamishra/savenow))  
+
+---
+
+## Feedback
+Love SaveNow? Drop a 🌟 on [GitHub](https://github.com/thekartikeyamishra/savenow) or share your thoughts in the comments below. Let's make shopping smarter, together! 🛍️
+```
